@@ -4,37 +4,7 @@ SINGLE_TICKER = ["AAPL"]
 
 # Dow 30 constituents in 2021/10
 # check https://wrds-www.wharton.upenn.edu/ for U.S. index constituents
-DOW_30_TICKER = [
-    "AXP",
-    "AMGN",
-    "AAPL",
-    "BA",
-    "CAT",
-    "CSCO",
-    "CVX",
-    "GS",
-    "HD",
-    "HON",
-    "IBM",
-    "INTC",
-    "JNJ",
-    "KO",
-    "JPM",
-    "MCD",
-    "MMM",
-    "MRK",
-    "MSFT",
-    "NKE",
-    "PG",
-    "TRV",
-    "UNH",
-    "CRM",
-    "VZ",
-    "V",
-    "WBA",
-    "WMT",
-    "DIS",
-    "DOW",
+DOW_30_TICKER = ['NVDA'
 ]
 
 # Nasdaq 100 constituents at 2019/01
